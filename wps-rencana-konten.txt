@@ -3,10 +3,8 @@ RENCANA KONTEN WPS
 -Javascripe
   >riex
 *saya akan membuat sintak yang baru
-*fremwork yang baru
   > Vue
 -vlog
 -struktur fundamental
 -php
-  > LARAVEL
--html
+
