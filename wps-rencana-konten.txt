@@ -4,5 +4,6 @@ RENCANA KONTEN WPS
 *saya akan membuat sintak yang baru
 *fremwork yang baru
 -vlog
+-struktur fundamental
 -php
 -html
